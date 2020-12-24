@@ -13,7 +13,7 @@ Reach me out 👇
 
 Abstracts published related to the subject "Digital image processing " :
 
-[Análise de imagens termograficas no diagnóstico de manutenção preditiva](https://periodicos.unipampa.edu.br/index.php/SIEPE/article/view/106560)
+[Análise de imagens termograficas no diagnóstico de manutenção preditiva](https://periodicos.unipampa.edu.br/index.php/SIEPE/article/view/107498)
 
 [Contagem automática de veículos para monitoramento de tráfego](https://periodicos.unipampa.edu.br/index.php/SIEPE/article/view/101440)
 
